@@ -1,0 +1,7 @@
+#Fri Jul 14 13:18:38 IST 2017
+base.0=/Users/sureshkerai/Documents/clientwork/bloodcheck/paytmnew/Paytm_Android_App_Kit-master/SampleMerchantApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_bbad5284718e61cdee2f089b4daefdcdeb03b4c9
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/sureshkerai/Documents/clientwork/bloodcheck/paytmnew/Paytm_Android_App_Kit-master/SampleMerchantApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4dbbb80879b32df4ef2415071fe97ffdd82675fe/classes.dex
+base.1=/Users/sureshkerai/Documents/clientwork/bloodcheck/paytmnew/Paytm_Android_App_Kit-master/SampleMerchantApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4dbbb80879b32df4ef2415071fe97ffdd82675fe
+file.0=/Users/sureshkerai/Documents/clientwork/bloodcheck/paytmnew/Paytm_Android_App_Kit-master/SampleMerchantApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_bbad5284718e61cdee2f089b4daefdcdeb03b4c9/classes.dex
